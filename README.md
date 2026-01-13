@@ -17,7 +17,7 @@ For additional instructions, see this [post](https://github.com/ai4ce/insta360_r
 
 ```
 cd ~/ros2_ws/src
-git clone -b humble https://github.com/ai4ce/insta360_ros_driver
+git clone -b jazzy https://github.com/robotics-upo/insta360_ros_driver.git
 cd ..
 ```
 Then, the Insta360 libraries need to be installed as follows:
